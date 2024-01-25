@@ -8,3 +8,8 @@ npm start
 ```
 
 Make sure to configure your bot_config.ts inside the src/ folder
+
+# TODO:
+* Add blacklist checking for newly joined members
+* Full localization
+* Cleaner code
